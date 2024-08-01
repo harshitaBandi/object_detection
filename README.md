@@ -18,4 +18,6 @@ Workflow
 Usage
 Capture Photo: Execute the take_photo function to capture an image using the webcam.
 Detect Objects: Use the detect_food function to apply the YOLOv5 model on the captured image and visualize the detected objects.
+
+
 This implementation provides an accessible way to integrate webcam image capture and YOLOv5 object detection, making it suitable for various computer vision applications, including real-time detection and analysis.
