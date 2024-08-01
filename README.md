@@ -1,5 +1,6 @@
 
 Overview of Object Detection with YOLOv5
+
 This repository provides a straightforward implementation for capturing images using a webcam and performing object detection using the YOLOv5 model. The workflow includes capturing a photo, processing the image, and applying the YOLOv5 model to detect objects in the image.
 
 Features
