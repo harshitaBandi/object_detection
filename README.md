@@ -4,7 +4,9 @@ Overview of Object Detection with YOLOv5
 This repository provides a straightforward implementation for capturing images using a webcam and performing object detection using the YOLOv5 model. The workflow includes capturing a photo, processing the image, and applying the YOLOv5 model to detect objects in the image.
 
 Features
+
 Webcam Integration: Utilizes JavaScript for capturing images from the webcam, specifically designed to work seamlessly in Google Colab environments.
+
 YOLOv5 Model: Leverages the pre-trained yolov5s model from the ultralytics/yolov5 repository, which is known for its accuracy and speed in object detection tasks.
 Image Processing: Employs OpenCV for reading and converting the captured image to the format required by the YOLOv5 model.
 Inference and Visualization: Performs inference on the captured image to detect objects and displays the detected objects directly on the image.
